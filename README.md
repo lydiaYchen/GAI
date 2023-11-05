@@ -44,20 +44,19 @@ This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.gi
 Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt response about the course, put the email title starting with [GAI24]
 
 ##  <a name='Learningobjectives'></a>Learning objectives
-- To argue and reason about distributed ML from a systems perspective.
-- To understand the behavior and tradeoffs of distributed ML in terms of performance and scalability
-- To estimate the importance of data inputs via different techniques, i.e., core set and decomposition methods, for distributed ML systems.
-- To understand data poison attacks and design defense strategy for distributed ML systems.
-- To analyze the state-of-the art federated machine learning systems and design the failure-resilient communication protocols
-- To design and implement methods and techniques for making distributed ML systems more efficient.
-- 
+- To understand and analyze the basic deep generative models, i.e., autoencoder, generative adversarial networks, diffusion models, and GPT.
+- To understand how to train the deep generative models in a centralized and decentralized way
+- To understand how generative models applied on different data types, e.g., images, tables, and time series.
+- To analyze the performance and computational tradeoff among different generative models
+- To understand the use cases of generative models and apply them 
+- To understand the vulnerabilities of generative models 
 
 
 
 **All assessment items (reviews and presentation slides) have to be submitted via ILIAS.**
 
 To pass the course, you need to
-1. Submmit at least 4 paper reviews (template and requirement can be found [here](review.md) )
+1. Submmit at least 3 paper reviews (template and requirement can be found [here](review.md) )
 2. Present at least 1 paper (30 minutes plus Q/A)
 
 ##  <a name='Detailedschedule'></a>Detailed schedule
@@ -68,14 +67,14 @@ To pass the course, you need to
 Week 1 | Introduction to generative AI (I) 
 Week 2 | Introduction to generative AI (I)
 Week 3| Generative adversarial networks
-Week 4| Diffusion models and compression
-Week 5| ChatGPT
+Week 4| Diffusion models and compression (Chi Hong)
+Week 5| ChatGPT (Jeroen Galjaard)
 Week 6| Self study
 Week 7| Self study
 Week 8| Self study
 Week 9| Self study
-Week 10| Tabular synthesizer, Paper presentation and discussion on topic 1-6
-Week 11| Time series synthesizer, Paper presentation and discussion on topic 1-6
-Week 12| TableGPT, Paper presentation and discussion on topic 1-6
-Week 13| Watermark GPT, Paper presentation and discussion on topic 1-6
+Week 10| Time sieres synthesizer (Able ), Paper presentation and discussion on topic 1-6
+Week 11| Federated generative models (Aditya), Paper presentation and discussion on topic 1-6
+Week 12| TableGPT (Gijs), Paper presentation and discussion on topic 1-6
+Week 13| Watermark GPT (Choayi), Paper presentation and discussion on topic 1-6
 
