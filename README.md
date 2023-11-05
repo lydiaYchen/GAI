@@ -1,4 +1,4 @@
-# DML
+# GenAI
 
 :warning: **I am still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
 
