@@ -76,5 +76,6 @@ Week 9| Self study
 Week 10| Time sieres synthesizer (Abel), Paper presentation and discussion from students
 Week 11| Federated generative models (Aditya), Paper presentation and discussion from students
 Week 12| Watermark GPT (Choayi), Paper presentation and discussion from students
-Week 13| Malicious Generative Models (Zaiteng), Paper presentation and discussion from students
+Week 13| Malicious Generative Models (Zaiteng), Paper presenation and discussion from students
+Week 14 |
 
