@@ -7,7 +7,7 @@ Use the following review template which is widely adopted by the system conferen
 
 ## Requirements
 
-Reviews that fulfil the following requirements will receive 60% of the exercise point
+Reviews that fulfil the following requirements will receive 60% of the exercise points
 
 All questions have to be answered.&nbsp;
 The report provides a sensible review of the paper, and shows&nbsp; a solid understanding of that.
