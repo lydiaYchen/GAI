@@ -66,15 +66,16 @@ To pass the course, you need to
 :-----|:-----
 Week 1 | Introduction to generative AI (I) 
 Week 2 | Introduction to generative AI (I)
-Week 3| Generative adversarial networks
+Week 3| Generative adversarial networks (GANs)
 Week 4| Diffusion models and compression (Chi Hong)
 Week 5| ChatGPT (Jeroen Galjaard)
 Week 6| Self study
 Week 7| Self study
 Week 8| Self study
 Week 9| Self study
-Week 10| Time sieres synthesizer (Able ), Paper presentation and discussion on topic 1-6
-Week 11| Federated generative models (Aditya), Paper presentation and discussion on topic 1-6
-Week 12| TableGPT (Gijs), Paper presentation and discussion on topic 1-6
-Week 13| Watermark GPT (Choayi), Paper presentation and discussion on topic 1-6
+Week 10| Time sieres synthesizer (Abel), Paper presentation and discussion from students
+Week 11| Federated generative models (Aditya), Paper presentation and discussion from students
+Week 12| TableGPT (Gijs), Paper presentation and discussion from students
+Week 13| Watermark GPT (Choayi), Paper presentation and discussion from students
+Week 14| Malicious Generative Models (Zaiteng), Paper presentation and discussion from students
 
