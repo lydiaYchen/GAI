@@ -56,7 +56,7 @@ Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt r
 **All assessment items (reviews and presentation slides) have to be submitted via ILIAS.**
 
 To pass the course, you need to
-1. Submmit at least 3 paper reviews (template and requirement can be found [here](review.md) )
+1. Submmit 3 paper reviews (template and requirement can be found [here](review.md) )
 2. Present at least 1 paper (30 minutes plus Q/A)
 
 ##  <a name='Detailedschedule'></a>Detailed schedule
@@ -64,17 +64,17 @@ To pass the course, you need to
 
 **Week**|**Topic**
 :-----|:-----
-Week 1 | Introduction to generative AI (I) 
-Week 2 | Generative adversarial networks (GANs)
-Week 3|  Diffusion models and compression (Chi Hong)
-Week 4| ChatGPT (Jeroen Galjaard)
-Week 5| Time sieres synthesizer (Abel), Paper presentation and discussion from students
-Week 6| Federated generative models (Aditya), Paper presenta`tion and discussion from students
-Week 7|  Watermark GPT (Choayi), Paper presentation and discussion from students
-Week 8| Malicious Generative Models (Zaiteng), Paper presenation and discussion from students
-Week 9| Paper presenation and discussion from students
-Week 10| Paper presenation and discussion from students
-Week 11| Paper presenation and discussion from students
+Week 1 (Feb 19) | Introduction to generative AI 
+Week 2 (Feb 26) | Generative adversarial networks (GANs)
+Week 3 (Mar 4)|  Diffusion models and compression
+Week 4 (Mar 11)| Large language models 
+Week 5 (Mar 18)| Time sieres synthesizer (Casper), Paper presentation and discussion from students
+Week 6 (Mar 25)| Federated tabular generative models (Aditya) ++ Paper presenta`tion and discussion from students
+Week 7 (Apr 1)|  Watermark GPT (Choayi) ++ PPaper presentation and discussion from students
+Week 8 (Apr 8)| Malicious Generative Models (Zaiteng) ++ P Paper presenation and discussion from students
+Week 9 (Apr 15)| ++ Paper presenation and discussion from students
+Week 10 (Apr 22)| ++ Paper presenation and discussion from students
+Week 11 (Apr 29)| ++ Paper presenation and discussion from students
 Week 12| Writing Reviews
 Week 13| Writing Reviews
 Week 14 |Writing Reviews
