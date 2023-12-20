@@ -16,11 +16,11 @@ This repository contains the materials of the  **Seminar on Generative AI ** - S
 
 ##  <a name='Coursedescription'></a>Course description
 
-Machine learning systems are often conventionally designed for centralized processing in that they first collect data from distributed sources and then execute algorithms on a single server. Due to the limited scalability of processing large amount of data and the long latency delay, there is a strong demand for a paradigm shift to distributed or decentralized ML systems which execute ML algorithms on multiple and in some cases even geographically dispersed nodes.
+Generative artifical intelligence is ubqitious in our daily life. Examples include image synthesis, image styling, text to image synthesizing, voice to text trasnplation, text translation, and question and answering. 
 
-The aim of this seminar course is to let students learn how to design and build distributed ML systems via paper reading, presentation, and discussion; We provide a broad overview on the design of the state-of-the-art distributed ML systems, with a strong focus on the scalability, resource efficiency, data requirements, and robustness of the solutions. We will present an array of methodologies and techniques that can efficiently scale ML analysis to a large number of distributed nodes against all operation conditions, e.g., system failures and malicious attacks. The specific course topics are listed below.
+The aim of this seminar course is to let students learn the principles and models of generative AI via paper reading, presentation, and discussion. We provide a broad overview on the design of the state-of-the-art generative models, spanning from generative adversarial networks, diffusion models and generative pre-trained transformers (GPT). We will present an array of methodologies and techniques that can efficiently and effectively train generative models against all operational conditions.
 
-The course materials will be based on a mixture of classic and recently published papers. The first 3-4 lectures, the basic concept of distributed machine learning will be covered, followed by three weeks of self-study time, and then student presentations will be given.
+The course materials will be based on a mixture of classic and recently published papers. The first 4 lectures, the basic concept of distributed machine learning will be covered, followed by presentations from my PhD students and the students taking this course.
 
 
 
@@ -28,8 +28,8 @@ The course materials will be based on a mixture of classic and recently publishe
 
 
 Paper reading and reviews are the key activities in this course. To pass the course, you need to 
-- Submit at least 4 reviewers on 4 different topics out of 6 topics.
-- Present at least one paper out of 6 topics during the second half of the course.
+- Submit 3  reviews
+- Present at least one paper
 - All reviews need to be submitted to the ILIAS by the last week of the semester.
 
 
