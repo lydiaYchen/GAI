@@ -49,9 +49,6 @@ Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt r
 - To understand how generative models applied on different data types, e.g., images, tables, and time series.
 - To analyze the performance and computational tradeoff among different generative models
 - To understand the use cases of generative models and apply them 
-- To understand the vulnerabilities of generative models 
-
-
 
 **All assessment items (reviews and presentation slides) have to be submitted via ILIAS.**
 
@@ -68,14 +65,14 @@ Week 1 (Feb 19) | Introduction to generative AI
 Week 2 (Feb 26) | Generative adversarial networks (GANs)
 Week 3 (Mar 4)|  Diffusion models and compression
 Week 4 (Mar 11)| Large language models 
-Week 5 (Mar 18)| Time sieres synthesizer (Casper), Paper presentation and discussion from students
+Week 5 (Mar 18)| Diffusion distilliation (Chi), Paper presentation and discussion from students
 Week 6 (Mar 25)| Federated tabular generative models (Aditya) ++ Paper presenta`tion and discussion from students
-Week 7 (Apr 1)|  Watermark GPT (Choayi) ++ PPaper presentation and discussion from students
-Week 8 (Apr 8)| Malicious Generative Models (Zaiteng) ++ P Paper presenation and discussion from students
-Week 9 (Apr 15)| ++ Paper presenation and discussion from students
+Week 7 (Apr 1)| Tabular GPT ++ PPaper presentation and discussion from students
+Week 8 (Apr 8)|  Watermark GPT (Choayi) ++ P Paper presenation and discussion from students
+Week 9 (Apr 15)| Graph diffusion (Abel)++ Paper presenation and discussion from students
 Week 10 (Apr 22)| ++ Paper presenation and discussion from students
 Week 11 (Apr 29)| ++ Paper presenation and discussion from students
-Week 12| Writing Reviews
-Week 13| Writing Reviews
-Week 14 |Writing Reviews
+Week 12 (May 6)| Writing Reviews
+Week 13 (May 13)| Writing Reviews
+Week 14 (May 20)|Writing Reviews
 
