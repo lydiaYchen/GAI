@@ -16,7 +16,7 @@ This repository contains the materials of the  **Seminar on Generative AI ** - S
 
 ##  <a name='Coursedescription'></a>Course description
 
-Generative artifical intelligence is ubqitious in our daily life. Examples include image synthesis, image styling, text to image synthesizing, voice to text trasnplation, text translation, and question and answering. 
+Generative artifical intelligence is ubqitious in our daily life, generatiing synthetic images, text, sound tracks, and videos. Example tasks include image synthesis, image styling, text to image synthesizing, voice to text trasnplation, text translation, and question and answering.
 
 The aim of this seminar course is to let students learn the principles and models of generative AI via paper reading, presentation, and discussion. We provide a broad overview on the design of the state-of-the-art generative models, spanning from generative adversarial networks, diffusion models and generative pre-trained transformers (GPT). We will present an array of methodologies and techniques that can efficiently and effectively train generative models against all operational conditions.
 
@@ -24,21 +24,11 @@ The course materials will be based on a mixture of classic and recently publishe
 
 
 
-##  <a name='Paper List'></a>Mandatory Paper Reviews
-
-
-Paper reading and reviews are the key activities in this course. To pass the course, you need to 
-- Submit 3  reviews
-- Present at least one paper
-- All reviews need to be submitted to the ILIAS by the last week of the semester.
-
-
 Check [Paper Reading List](PaperList.md)
 
 
 ##  <a name='Courseteam'></a>Course team
 This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.github.io/]) . The course team is composed of a number of PhDs  who support the course through guest lectures.
-
 
 
 Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt response about the course, put the email title starting with [GAI24]
@@ -55,6 +45,10 @@ Lydia can be alwasy reached at **lydiaychen@ieee.org**. In order to get prompt r
 To pass the course, you need to
 1. Submmit 3 paper reviews (template and requirement can be found [here](review.md) )
 2. Present at least 1 paper (30 minutes plus Q/A)
+   
+##  <a name='Materials'></a>Course materials
+
+All slides will be available on the ILIAS prior to the lecture.
 
 ##  <a name='Detailedschedule'></a>Detailed schedule
 
