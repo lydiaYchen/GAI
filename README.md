@@ -59,11 +59,11 @@ Week 1 (Feb 19) | Introduction to generative AI
 Week 2 (Feb 26) | Generative adversarial networks (GANs)
 Week 3 (Mar 4)|  Diffusion models and compression
 Week 4 (Mar 11)| Large language models 
-Week 5 (Mar 18)| Diffusion distillation (Chi), Paper presentation and discussion from students
+Week 5 (Mar 18)| Self-study
 Week 6 (Mar 25)| Federated tabular generative models (Aditya) ++ Paper presentation and discussion from students
-Week 7 (Apr 1)| Tabular GPT ++ PPaper presentation and discussion from students
+Week 7 (Apr 1)| Graph diffusion (Abel) ++ PPaper presentation and discussion from students
 Week 8 (Apr 8)|  Watermark GPT (Choayi) ++ P Paper presentation and discussion from students
-Week 9 (Apr 15)| Graph diffusion (Abel)++ Paper presentation and discussion from students
+Week 9 (Apr 15)| Tabular GPT ++ Paper presentation and discussion from students
 Week 10 (Apr 22)| ++ Paper presentation and discussion from students
 Week 11 (Apr 29)| ++ Paper presentation and discussion from students
 Week 12 (May 6)| Writing Reviews
