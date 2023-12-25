@@ -60,13 +60,13 @@ Week 2 (Feb 26) | Generative adversarial networks (GANs)
 Week 3 (Mar 4)|  Diffusion models and compression
 Week 4 (Mar 11)| Large language models 
 Week 5 (Mar 18)| Self-study
-Week 6 (Mar 25)| Federated tabular generative models (Aditya) ++ Paper presentation and discussion from students
-Week 7 (Apr 1)| Graph diffusion (Abel) ++ PPaper presentation and discussion from students
-Week 8 (Apr 8)|  Watermark GPT (Choayi) ++ P Paper presentation and discussion from students
-Week 9 (Apr 15)| Tabular GPT ++ Paper presentation and discussion from students
-Week 10 (Apr 22)| ++ Paper presentation and discussion from students
+Week 6 (Mar 25)| Federated tabular generative models (Aditya)   ++ Paper presentation and discussion from students
+Week 7 (Apr 1)|No lesson  (Easter Monday)
+Week 8 (Apr 8)| Graph diffusion (Abel) ++ PPaper presentation and discussion from students 
+Week 9 (Apr 15)| Watermark GPT (Choayi) ++ Paper presentation and discussion from students
+Week 10 (Apr 22)| Tabular GPT (Jeroen) ++ Paper presentation and discussion from students
 Week 11 (Apr 29)| ++ Paper presentation and discussion from students
-Week 12 (May 6)| Writing Reviews
+Week 12 (May 6)| ++ Paper presentation and discussion from students (Online)
 Week 13 (May 13)| Writing Reviews
 Week 14 (May 20)|Writing Reviews
 
