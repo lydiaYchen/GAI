@@ -57,7 +57,7 @@ All slides will be available on the ILIAS prior to the lecture.
 :-----|:-----
 Week 1 (Feb 19) | Introduction to generative AI 
 Week 2 (Feb 26) | Generative adversarial networks (GANs)
-Week 3 (Mar 4)|  Diffusion models and compression
+Week 3 (Mar 4)|  Diffusion models 
 Week 4 (Mar 11)| Large language models 
 Week 5 (Mar 18)| Self-study
 Week 6 (Mar 25)| Federated tabular generative models (Aditya)   ++ Paper presentation and discussion from students
