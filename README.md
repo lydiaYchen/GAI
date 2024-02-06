@@ -1,9 +1,8 @@
-# GenAI
-
-:warning: **I am still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
+# Generative Artificial Intelligence
 
 
-This repository contains the materials of the  **Seminar on Generative AI ** - Spring 2024 at BeNeFri . 
+This repository contains the materials of the  **Seminar on Generative AI ** - Spring 2024 at BeNeFri.
+
 
 
 ##  <a name='Importantlinks'></a>Important links
@@ -40,11 +39,15 @@ Lydia can be always reached at **lydiaychen@ieee.org**. In order to get prompt r
 - To analyze the performance and computational tradeoff among different generative models
 - To understand the use cases of generative models and apply them 
 
+##  <a name='grading'></a>:dart: Grading policy
 **All assessment items (reviews and presentation slides) have to be submitted via ILIAS.**
 
 To pass the course, you need to
-1. Submit 3 paper reviews (template and requirement can be found [here](review.md) )
-2. Present at least 1 paper (30 minutes plus Q/A)
+1. Submit 3 paper reviews (template and requirement can be found [here](review.md) ) (75\% of the final grade)
+2. Present at least 1 paper (30 minutes plus Q/A) (25\% of the final grade)
+   
+* Review deadlines are published on ILIAS.
+* Student presentation schedule will be decided through self-signup. The details will be announced in the course. 
    
 ##  <a name='Materials'></a>Course materials
 
@@ -55,18 +58,18 @@ All slides will be available on the ILIAS prior to the lecture.
 
 **Week**|**Topic**
 :-----|:-----
-Week 1 (Feb 19) | Introduction to generative AI 
-Week 2 (Feb 26) | Generative adversarial networks (GANs)
-Week 3 (Mar 4)|  Diffusion models 
-Week 4 (Mar 11)| Large language models 
-Week 5 (Mar 18)| Self-study
-Week 6 (Mar 25)| Federated tabular generative models (Aditya)   ++ Paper presentation and discussion from students
+Week 1 (Feb 19) | Introduction to generative AI  (Lydia)
+Week 2 (Feb 26) | Generative adversarial networks (Lydia)
+Week 3 (Mar 4)|  Diffusion models  (Lydia)
+Week 4 (Mar 11)| Large language models  (Lydia)
+Week 5 (Mar 18)| **Self-study**
+Week 6 (Mar 25)| Federated tabular generative models (Aditya) and **paper presentation from students**
 Week 7 (Apr 1)|No lesson  (Easter Monday)
-Week 8 (Apr 8)| Graph diffusion (Abel) ++ PPaper presentation and discussion from students 
-Week 9 (Apr 15)| Watermark GPT (Choayi) ++ Paper presentation and discussion from students
-Week 10 (Apr 22)| Tabular GPT (Jeroen) ++ Paper presentation and discussion from students
-Week 11 (Apr 29)| ++ Paper presentation and discussion from students
-Week 12 (May 6)| ++ Paper presentation and discussion from students (Online)
+Week 8 (Apr 8)| Graph diffusion (Abel) and **paper presentation from students**
+Week 9 (Apr 15)| Watermark GPT (Choayi) and **paper presentation from students**
+Week 10 (Apr 22)| Tabular GPT (Jeroen)and **paper presentation from students**
+Week 11 (Apr 29)|  **Paper presentation from students**
+Week 12 (May 6)|  **Paper presentation from students** (Online)
 Week 13 (May 13)| Writing Reviews
 Week 14 (May 20)|Writing Reviews
 
