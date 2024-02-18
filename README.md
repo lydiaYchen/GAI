@@ -68,7 +68,7 @@ Week 7 (Apr 1)|No lesson  (Easter Monday)
 Week 8 (Apr 8)| Graph diffusion (Abel) and **paper presentation from students**
 Week 9 (Apr 15)| Watermark GPT (Choayi) and **paper presentation from students**
 Week 10 (Apr 22)| Tabular GPT (Jeroen)and **paper presentation from students**
-Week 11 (Apr 29)|  Federated tabular generative models (Aditya) **Paper presentation from students**
+Week 11 (Apr 29)| Federated tabular generative models (Aditya) **Paper presentation from students**
 Week 12 (May 6)|  **Paper presentation from students** (Online)
 Week 13 (May 13)| Writing Reviews
 Week 14 (May 20)|Writing Reviews
