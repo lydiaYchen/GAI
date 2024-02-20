@@ -60,9 +60,9 @@ All slides will be available on the ILIAS prior to the lecture.
 :-----|:-----
 Week 1 (Feb 19) | Introduction to generative AI  (Lydia)
 Week 2 (Feb 26) | Generative adversarial networks (Lydia)
-Week 3 (Mar 4)|  Diffusion models  (Lydia)
-Week 4 (Mar 11)| Large language models  (Lydia)
-Week 5 (Mar 18)| **Self-study**
+Week 3 (Mar 4)|   **Self-study** 
+Week 4 (Mar 11)| Diffusion models  (Lydia)
+Week 5 (Mar 18)| Large language models  (Lydia)
 Week 6 (Mar 25)| **Self-study** 
 Week 7 (Apr 1)|No lesson  (Easter Monday)
 Week 8 (Apr 8)| Graph diffusion (Abel) and **paper presentation from students**
