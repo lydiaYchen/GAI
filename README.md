@@ -63,7 +63,7 @@ Week 2 (Feb 26) | Generative adversarial networks (Lydia)
 Week 3 (Mar 4)|   **Self-study** 
 Week 4 (Mar 11)| Diffusion models  (Lydia)
 Week 5 (Mar 18)| Large language models  (Lydia)
-Week 6 (Mar 25)| **Self-study** 
+Week 6 (Mar 25)| **Self-study**  **First Review Due** 
 Week 7 (Apr 1)|No lesson  (Easter Monday)
 Week 8 (Apr 8)| Graph diffusion (Abel) and **paper presentation from students**
 Week 9 (Apr 15)| Watermark GPT (Choayi) and **paper presentation from students**
