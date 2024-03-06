@@ -65,7 +65,7 @@ Week 4 (Mar 11)| Diffusion models  (Lydia)
 Week 5 (Mar 18)| Large language models  (Lydia)
 Week 6 (Mar 25)| **Self-study**  **First Review Due** 
 Week 7 (Apr 1)|No lesson  (Easter Monday)
-Week 8 (Apr 8)| Graph diffusion (Abel) and **paper presentation from students**
+Week 8 (Apr 8)| Transformers and **paper presentation from students**
 Week 9 (Apr 15)| Watermark GPT (Choayi) and **paper presentation from students**
 Week 10 (Apr 22)| Tabular GPT (Jeroen)and **paper presentation from students**
 Week 11 (Apr 29)| Federated tabular generative models (Aditya) **Paper presentation from students**
